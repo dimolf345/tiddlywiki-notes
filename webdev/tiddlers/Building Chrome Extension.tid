@@ -1,0 +1,28 @@
+created: 20220323083251681
+modified: 20220323084950486
+tags: chrome chrome-extension
+title: Building Chrome Extension
+type: text/vnd.tiddlywiki
+
+
+!Getting started 
+!!https://developer.chrome.com/docs/extensions/mv3/getstarted/
+
+Extension are made up with different components:
+1. Background scripts
+2. Content scripts
+3. Options page
+4. UI Elements
+
+!! Extensions starts with `manifest.json` file
+
+```
+{
+ "name": "Getting Started example",
+ "description": "Building an extension",
+ "version": "1.0.0",
+ "manifest_versione": 3 
+}
+```
+
+
