@@ -1,5 +1,5 @@
 created: 20220323112021969
-modified: 20220323120531699
+modified: 20220325085120472
 tags: uci-quiz
 title: UCI-QUIZ building process
 type: text/vnd.tiddlywiki
@@ -10,9 +10,9 @@ type: text/vnd.tiddlywiki
 #API MODELS
 
 !!USER STORIES
-# A user should be able to create an account as role ''user'' or as role ''admin''
-# A user should be able to ''LOGIN'' with ''EMAIL'' and ''PASSWORD''
-# A ''LOGGED'' user should be able to take a quiz with a selected number of questions (from 10 to 30) and selected questions category
+# ~~A user should be able to create an account as role ''user'' or as role ''admin''~~
+# ~~A user should be able to ''LOGIN'' with ''EMAIL'' and ''PASSWORD''~~
+# ~~A ''LOGGED or GUEST'' user should be able to take a quiz with a selected number of questions (from 10 to 30) and selected questions category~~
 # When taking a quiz, a ''LOGGED'' user should be able to ''load one question at a time and to give an answer''
 # When taking a quiz, a ''LOGGED'' user should be able to ''view all the answers given on a single page and chose to review the selected questions''
 # When taking a quiz a ''LOGGED'' user should be able to ''SUBMIT'' the quiz and receive the % score of the correct answers
