@@ -1,5 +1,5 @@
 created: 20220323112021969
-modified: 20220327145247904
+modified: 20220327193229932
 tags: uci-quiz
 title: UCI-QUIZ building process
 type: text/vnd.tiddlywiki
@@ -15,11 +15,11 @@ type: text/vnd.tiddlywiki
 # ~~A ''LOGGED or GUEST'' user should be able to take a quiz with a selected number of questions (from 10 to 30) and selected questions category~~
 # ~~When taking a quiz, a ''LOGGED'' user should be able to ''load one question at a time and to give an answer''~~
 # ~~When taking a quiz, a ''LOGGED'' user should be able to ''view all the answers given on a single page and chose to review the selected questions''~~
-# ~~When taking a quiz a ''LOGGED'' user should be able to ''SUBMIT'' the quiz and receive the % score of the correct answers~~
+# When taking a quiz a ''LOGGED'' user should be able to ''SUBMIT'' the quiz and receive the % score of the correct answers
 # ~~A ''NON LOGGED'' user should be able to take a quiz as a guest~~
-# A ''LOGGED'' user should be able to ''GET all the quiz taken'' and to ''retry'' that quiz
+#~~ A ''LOGGED'' user should be able to ''GET all the quiz taken'' and to ''retry'' that quiz~~
 # A ''LOGGED'' user should be able to ''change his password'' and eventually to ''GET'' a ''RESET PASSWORD'' link
-# An ''ADMIN LOGGED'' user should be able to ''GET all the questions into the DB and CRD a question''
+# ~~An ''ADMIN LOGGED'' user should be able to ''GET all the questions into the DB and CRD a question''~~
 # An ''ADMIN LOGGED'' user should be able to ''GET all the quizzes taken by users related to his SHIPS'' 
 
 
