@@ -1,0 +1,20 @@
+created: 20220403203146649
+modified: 20220403211123574
+tags: typescript
+title: TYPES IN TS
+type: text/vnd.tiddlywiki
+
+!Core Types
+
+#Number (no difference between integer and/or floats)
+#String
+#Boolean
+#Object
+#Array
+
+!!Main takeaways
+JavaScript use ''DYNAMIC TYPES'' (resolved at runtime) while TypeScript uses ''STATIC TYPES'' (set during development)
+
+!!What is type inference? It's a built in feature of TS that tries to automatically assign types to variables that are not explicitly defined.
+
+!!!Object types in TS: they are written almost like JS object but instead of having key: value pairs, they have key: type pairs and between each type there is a semicolon instead of a comma.
